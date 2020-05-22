@@ -1,0 +1,17 @@
+{
+  "name": "forceModalVersion",
+  "displayName": "forceModalVersion",
+  "expo": {
+    "name": "forceModalVersion",
+    "slug": "forceModalVersion",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
